@@ -1,0 +1,18 @@
+﻿<Window x:Class="IDE2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:IDE2"
+        mc:Ignorable="d"
+        Title="IDE" Height="768" Width="1360">
+    <DockPanel HorizontalAlignment="Left" Height="718" LastChildFill="False" Margin="10,10,0,0" VerticalAlignment="Top" Width="1322">
+        <StackPanel Height="36" DockPanel.Dock="Bottom" Width="1321" Background="#FF00AEFF"/>
+        <StackPanel DockPanel.Dock="Right" Width="1064" Margin="0,46,0,0" Background="#FF595959">
+            <TextBox x:Name="main_editor"  Height="633" TextWrapping="Wrap" Text="TextBox" TextChanged="TextBox_TextChanged"/>
+        </StackPanel>
+        <StackPanel Height="682" DockPanel.Dock="Left" Width="248" Background="#FF272727">
+            <ListBox x:Name="lista_archivos" Height="678" SelectionChanged="lista_archivos_SelectionChanged" Background="White"/>
+        </StackPanel>
+    </DockPanel>
+</Window>

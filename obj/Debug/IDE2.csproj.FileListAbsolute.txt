@@ -1,0 +1,15 @@
+C:\Users\cgardan\Desktop\Proyectos\compis\IDE2\bin\Debug\IDE2.exe.config
+C:\Users\cgardan\Desktop\Proyectos\compis\IDE2\bin\Debug\IDE2.exe
+C:\Users\cgardan\Desktop\Proyectos\compis\IDE2\bin\Debug\IDE2.pdb
+C:\Users\cgardan\Desktop\Proyectos\compis\IDE2\obj\Debug\IDE2.csprojAssemblyReference.cache
+C:\Users\cgardan\Desktop\Proyectos\compis\IDE2\obj\Debug\MainWindow.g.cs
+C:\Users\cgardan\Desktop\Proyectos\compis\IDE2\obj\Debug\App.g.cs
+C:\Users\cgardan\Desktop\Proyectos\compis\IDE2\obj\Debug\IDE2_MarkupCompile.cache
+C:\Users\cgardan\Desktop\Proyectos\compis\IDE2\obj\Debug\IDE2_MarkupCompile.lref
+C:\Users\cgardan\Desktop\Proyectos\compis\IDE2\obj\Debug\MainWindow.baml
+C:\Users\cgardan\Desktop\Proyectos\compis\IDE2\obj\Debug\IDE2.g.resources
+C:\Users\cgardan\Desktop\Proyectos\compis\IDE2\obj\Debug\IDE2.Properties.Resources.resources
+C:\Users\cgardan\Desktop\Proyectos\compis\IDE2\obj\Debug\IDE2.csproj.GenerateResource.cache
+C:\Users\cgardan\Desktop\Proyectos\compis\IDE2\obj\Debug\IDE2.csproj.CoreCompileInputs.cache
+C:\Users\cgardan\Desktop\Proyectos\compis\IDE2\obj\Debug\IDE2.exe
+C:\Users\cgardan\Desktop\Proyectos\compis\IDE2\obj\Debug\IDE2.pdb
